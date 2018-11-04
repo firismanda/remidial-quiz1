@@ -9,5 +9,8 @@
  * @author ASUS
  */
 public class matkul {
+    private String matkul;
+    
+    
     
 }
