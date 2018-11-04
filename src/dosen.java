@@ -9,5 +9,6 @@
  * @author ASUS
  */
 public class dosen {
-    
+    private String namaDosen;
+    private String nip;
 }
