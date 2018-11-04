@@ -9,5 +9,6 @@
  * @author ASUS
  */
 public class mahasiswa {
-    
+    String namaMhs;
+    String nim;
 }
