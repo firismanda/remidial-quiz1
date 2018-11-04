@@ -33,4 +33,9 @@ public class mahasiswa {
         this.nim = nim;
     }
     
+    public void info(){
+        System.out.println("Nama Mahasiswa : "+getNamaMhs());
+        System.out.println("Nim Mahasiswa  : "+getNim());
+    }
+    
 }
