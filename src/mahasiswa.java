@@ -11,4 +11,12 @@
 public class mahasiswa {
     String namaMhs;
     String nim;
+
+    public mahasiswa(String namaMhs, String nim) {
+        this.namaMhs = namaMhs;
+        this.nim = nim;
+    }
+    
+    
+    
 }
