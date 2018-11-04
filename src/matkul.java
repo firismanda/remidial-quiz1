@@ -53,5 +53,11 @@ public class matkul {
         this.mhs = mhs;
     }
     
+    public void info(){
+        mhs.info();
+        System.out.println("Nama Mata Kuliah : "+getMatkul());
+        dosen.info();
+        System.out.println("Nilai Mahasiswa  :"+getNilai());
+    }
     
 }
