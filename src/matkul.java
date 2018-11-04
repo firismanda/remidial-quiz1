@@ -13,4 +13,14 @@ public class matkul {
     private dosen dosen;
     private int nilai;
     private mahasiswa mhs;
+
+    public matkul(String matkul, dosen dosen, int nilai, mahasiswa mhs) {
+        this.matkul = matkul;
+        this.dosen = dosen;
+        this.nilai = nilai;
+        this.mhs = mhs;
+    }
+    
+    
+    
 }
