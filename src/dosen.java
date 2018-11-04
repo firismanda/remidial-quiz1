@@ -11,4 +11,12 @@
 public class dosen {
     private String namaDosen;
     private String nip;
+
+    public dosen(String namaDosen, String nip) {
+        this.namaDosen = namaDosen;
+        this.nip = nip;
+    }
+    
+    
+    
 }
