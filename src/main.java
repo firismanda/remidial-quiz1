@@ -11,6 +11,8 @@
 public class main {
     public static void main(String[]args){
         dosen Dosen = new dosen("Epis Kuswono","123456789");
+        mahasiswa Mhs = new mahasiswa("Muhammad Iqbal Kharis Firismanda","987654321");
+        
         
     }
 }
