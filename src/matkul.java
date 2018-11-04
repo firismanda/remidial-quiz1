@@ -20,7 +20,38 @@ public class matkul {
         this.nilai = nilai;
         this.mhs = mhs;
     }
-    
+
+    public String getMatkul() {
+        return matkul;
+    }
+
+    public void setMatkul(String matkul) {
+        this.matkul = matkul;
+    }
+
+    public dosen getDosen() {
+        return dosen;
+    }
+
+    public void setDosen(dosen dosen) {
+        this.dosen = dosen;
+    }
+
+    public int getNilai() {
+        return nilai;
+    }
+
+    public void setNilai(int nilai) {
+        this.nilai = nilai;
+    }
+
+    public mahasiswa getMhs() {
+        return mhs;
+    }
+
+    public void setMhs(mahasiswa mhs) {
+        this.mhs = mhs;
+    }
     
     
 }
