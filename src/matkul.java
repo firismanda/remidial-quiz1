@@ -10,7 +10,7 @@
  */
 public class matkul {
     private String matkul;
-    
-    
-    
+    private dosen dosen;
+    private int nilai;
+    private mahasiswa mhs;
 }
