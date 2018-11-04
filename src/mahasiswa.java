@@ -16,7 +16,21 @@ public class mahasiswa {
         this.namaMhs = namaMhs;
         this.nim = nim;
     }
-    
-    
+
+    public String getNamaMhs() {
+        return namaMhs;
+    }
+
+    public void setNamaMhs(String namaMhs) {
+        this.namaMhs = namaMhs;
+    }
+
+    public String getNim() {
+        return nim;
+    }
+
+    public void setNim(String nim) {
+        this.nim = nim;
+    }
     
 }
