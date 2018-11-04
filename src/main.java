@@ -9,5 +9,8 @@
  * @author ASUS
  */
 public class main {
-    
+    public static void main(String[]args){
+        dosen Dosen = new dosen("Epis Kuswono","123456789");
+        
+    }
 }
