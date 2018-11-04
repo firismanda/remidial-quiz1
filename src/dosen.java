@@ -33,4 +33,9 @@ public class dosen {
         this.nip = nip;
     }
     
+    public void info(){
+        System.out.println("Nama Dosen : "+getNamaDosen());
+        System.out.println("Nip Dosen : "+getNip());
+    }
+    
 }
